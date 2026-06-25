@@ -1,3 +1,9 @@
+# Problem: Dividing by 2 (DIV2)
+# Link: https://www.codechef.com/problems/DIV2
+# Platform: CodeChef
+# Language: Python 3
+
+# cook your dish here
 # cook your dish here
 t = int(input())
 
